@@ -1,0 +1,1 @@
+tellraw @a {"text": "More Recipes has been loaded!", "bold": true}
