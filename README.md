@@ -8,5 +8,6 @@ Netherite Blocks (from smithing together a diamond block with a netherite ingot)
 Hearts of the Sea,
 Saddles,
 Shulker Shells,
-Sponges and
-Totems of Undying!
+Sponges,
+Totems of Undying and
+Chainmail Armor Set!
